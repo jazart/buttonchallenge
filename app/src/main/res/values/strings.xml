@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">button challenge</string>
+    <string name="name">Name: %s</string>
+    <string name="id">ID: %d</string>
+    <string name="email">Email: %s</string>
+    <string name="candidate">Candidate: %s</string>
+    <string name="submit">Submit</string>
+    <string name="new_user">New User</string>
+    <string name="new_transfer">New Transfer</string>
+    <string name="transfer_id">Transfer ID</string>
+    <string name="amount">Amount</string>
+    <string name="user_id">User ID</string>
+    <string name="candidate_id">Candidate ID</string>
+    <string name="name_tv">Name: </string>
+    <string name="id_tv">ID: </string>
+    <string name="email_tv">Email: </string>
+    <string name="candidate_tv">Candidate: </string>
+</resources>
