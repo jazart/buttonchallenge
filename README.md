@@ -30,9 +30,6 @@ Lastly I didn't include a user balance as I didn't see a balance field in the us
 *[Retrofit2](http://square.github.io/retrofit/)
 *[Clans Floating Action Button](https://github.com/Clans/FloatingActionButton)
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 
